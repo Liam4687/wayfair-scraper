@@ -1,0 +1,5 @@
+{
+  "base_url": "https://www.wayfair.com/furniture",
+  "scraping_delay": 2,
+  "output_file": "product_data.json"
+}
